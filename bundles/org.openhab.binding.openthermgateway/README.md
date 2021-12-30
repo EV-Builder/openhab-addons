@@ -193,3 +193,5 @@ sitemap demo label="Main Menu" {
     }
 }
 ```
+If you posses the serial port version of the OpenTherm gateway. An utility can be used called ser2net.
+when configured correctly this will relay the data between and forth.
